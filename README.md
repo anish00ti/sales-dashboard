@@ -25,7 +25,7 @@ It enables business users, managers, and decision-makers to quickly identify tre
 ---
 
 ## 📈 Dashboard Features
-![sales-dashboard](image.png)
+![sales-dashboard](dashboard.png)
 ### Executive KPI Cards
 Displays key business metrics including:
 
