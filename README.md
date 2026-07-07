@@ -25,6 +25,7 @@ It enables business users, managers, and decision-makers to quickly identify tre
 ---
 
 ## 📈 Dashboard Features
+# 📷 Dashboard Preview
 ![sales-dashboard](dashboard.png)
 ### Executive KPI Cards
 Displays key business metrics including:
@@ -154,12 +155,6 @@ The dashboard enables users to:
 - Improve operational decision-making
 
 ---
-
-# 📷 Dashboard Preview
-
-> *(Add your dashboard screenshot here)*
-
-
 ---
 
 # 🚀 Skills Demonstrated
